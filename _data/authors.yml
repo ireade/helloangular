@@ -1,0 +1,20 @@
+authors: {
+  ire: {
+      name: 'Ire Aderinokun',
+      picture: 'https://pbs.twimg.com/profile_images/838489129658769409/bxKrBPrZ_400x400.jpg',
+      bio: 'Ire Aderinokun is a Frontend Developer and User Interface Designer based in Lagos, Nigera.',
+      link: {
+        url: 'https://ireaderinokun.com',
+        label: 'Profile'
+      }
+  },
+  eniola: {
+      name: 'Eniola Lucas Fakeye',
+      picture: '/assets/images/eniola.jpg',
+      bio: 'Software developer | Angular 2 Fanatic | Think more, Do more.',
+      link: {
+        url: 'https://medium.com/@enirate',
+        label: 'Medium'
+      }
+  }
+}

@@ -1,0 +1,21 @@
+title: Hello Angular
+description: Articles on developing applications with Angular 2
+email: ire@ireaderinokun.com
+
+
+baseurl: "/"
+
+# Build settings
+permalink: :title
+paginate: 1
+paginate_path: "page:num"
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock

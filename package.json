@@ -1,28 +1,20 @@
 {
-  "name": "jekyll-hgcasper-theme",
+  "name": "helloangular",
   "version": "0.0.1",
-  "description": "my vision of Theme Casper",
+  "description": "Jekyll blog for helloangular.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hugocarreira/jekyll-theme-casper.git"
+    "url": "git+https://github.com/ireade/helloangular.git"
   },
   "keywords": [
     "jekyll",
     "casper",
-    "theme",
-    "hugocarreira"
+    "theme"
   ],
-  "author": "hugocarreira",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hugocarreira/jekyll-theme-casper/issues"
-  },
-  "homepage": "https://github.com/hugocarreira/jekyll-theme-casper#readme",
-  "devDependencies": {
-  
-  }
+  "author": "ireaderinokun",
+  "license": "MIT"
 }

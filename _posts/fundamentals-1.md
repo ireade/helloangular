@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Fundamentals of routing in Angular 2.x Part 1"
+author: Eniola
+---
+
 Routing is not a hard thing if your website serves different pages for each URL, let say using PHP to serve pages from an Apache server or doing it the good old  way by linking static HTML pages together. Come to think of it, what if you have a single page application i.e apps that has only one view and rotates other views within this single/main view, how can you attach a corresponding extension to your base view for each view displayed in the container(e.g /about), or get parameters from a URL etc?.
 
 Don’t think too much, angular has got you. Angular router is an optional service provided by Angular 2 framework to help implement routing in single page Angular 2 app without much fuss.

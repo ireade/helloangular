@@ -1,4 +1,10 @@
-###Why we are here
+---
+layout: post
+title:  "Fundamentals of routing in Angular 2.x Part 2"
+author: Eniola
+---
+
+##Why we are here
 In the first part of this series you were taken through how we can set up basic routing functionality in our Angular (Angular 2) app. Don't forget, you can clone the [repo](https://github.com/Enirate/ng-router) if you need it. In this part we shall be flexing our routing muscles a wee bit by reading data from the route parameter and displaying a corresponding information.
 
 ####The Details components
